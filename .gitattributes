@@ -1,0 +1,13 @@
+*.gd eol=lf
+*.tscn eol=lf
+*.cfg eol=lf
+*.godot eol=lf
+*.tres eol=lf
+*.import eol=lf
+*.cs eol=lf
+*.sln eol=lf
+*.gdns eol=lf
+*.gdlib eol=lf
+.gitattributes eol=lf
+.gitignore eol=lf
+* eol=lf

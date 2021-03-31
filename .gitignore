@@ -1,0 +1,24 @@
+*.o
+*.os
+*.so
+*.dylib
+.import/
+*.dblite
+*.exp
+*.lib
+*.obj
+*.TMP
+logs
+Thumbs.db
+*.csproj.user
+
+# Godot-specific ignores
+.import/
+export.cfg
+export_presets.cfg
+
+# Mono-specific ignores
+.mono/
+mono_crash.*.json
+
+.vs/

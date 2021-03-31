@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/SegmentCut.wav-b3126be3632c7d55a93fe86843653125.sample"
+
+[deps]
+
+source_file="res://Sounds/SegmentCut.wav"
+dest_files=[ "res://.import/SegmentCut.wav-b3126be3632c7d55a93fe86843653125.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0
